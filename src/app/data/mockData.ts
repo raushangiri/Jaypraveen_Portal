@@ -2,7 +2,7 @@ export const leaderData = {
   name: "Shree Ram Chandra Mandal",
   nameHi: "श्री राम चंद्र मंडल",
   title: "Founder of Vanchit Kranti Dal from Darbhanga",
-  titleHi: "विधान सभा सदस्य",
+  titleHi: "दरभंगा से वंचित क्रांति दल के संस्थापक",
   constituency: "Darbhanga Constituency",
   constituencyHi: "दरभंगा विधानसभा",
   party: "Vanchit Kranti Dal",
@@ -13,8 +13,8 @@ export const leaderData = {
   bioHi: "श्री राम चंद्र मंडल ने अपने जीवन के 40 से अधिक वर्ष जनसेवा में समर्पित किए हैं। दरभंगा के एक साधारण परिवार में जन्मे, वे अपनी दृढ़ता और समर्पण से क्षेत्रीय राजनीति में एक सम्मानित आवाज बन गए हैं।",
   vision: "A developed, educated, and prosperous Darbhanga where every citizen has access to quality education, healthcare, and livelihood opportunities.",
   visionHi: "एक विकसित, शिक्षित और समृद्ध दरभंगा जहाँ हर नागरिक को गुणवत्तापूर्ण शिक्षा, स्वास्थ्य सेवा और आजीविका के अवसर मिलें।",
-  phone: "+91-9876543210",
-  email: "contact@rajendrasharma.in",
+  phone: "+91-9507247100",
+  email: "contact@vanchitkranti.com",
   address: "Village- Behta, P.O.Keoti Darbhanga, Bihar - 847121",
   socialLinks: {
     facebook: "#",
@@ -302,7 +302,7 @@ export const aiChatResponses: Record<string, { en: string; hi: string }> = {
     hi: "प्रमुख विकास कार्य: 150 किमी नई सड़कें, 10,000 घरों में बिजली, 3 स्वास्थ्य केंद्र, जिले के लिए 120 करोड़ स्वीकृत, केंद्रीय मंत्री से नई रेल लाइन की प्रतिबद्धता।"
   },
   contact: {
-    en: "You can reach Shree Sharma at: Phone: +91-9876543210, Email: contact@rajendrasharma.in, Office: 15, MLA Colony, Rajnagar, Rajasthan - 302001",
-    hi: "श्री शर्मा से संपर्क: फोन: +91-9876543210, ईमेल: contact@rajendrasharma.in, कार्यालय: 15, विधायक कॉलोनी, राजनगर, राजस्थान - 302001"
+    en: "You can reach Shree Sharma at: Phone: +91-9507247100, Email: contact@vanchitkranti.com, Office: 15, MLA Colony, Rajnagar, Rajasthan - 302001",
+    hi: "श्री शर्मा से संपर्क: फोन: +91-9507247100, ईमेल: contact@vanchitkranti.com, कार्यालय: 15, विधायक कॉलोनी, राजनगर, राजस्थान - 302001"
   }
 };
